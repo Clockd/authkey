@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1504331377 source:d:\cpp_projects\authkey\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<ctime>
+
